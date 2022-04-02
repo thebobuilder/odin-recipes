@@ -8,7 +8,6 @@
     font-weight: bold;
 } */
 
-/*End externall pratice css items -- Foundations 01 */
 
 /*Externall pratice css items -- Foundations 02 */
 .odd {
@@ -31,8 +30,6 @@
     font-weight: bold;
 }
 
-/*End externall pratice css items -- Foundations 02 */
-
 /*Externall pratice css items -- Foundations 03 */
 
 .rectangle-1 {
@@ -48,4 +45,16 @@
 .rectangle-2 {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+/*Externall pratice css items -- Foundations 04 */
+
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
 }
