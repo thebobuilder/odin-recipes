@@ -1,0 +1,51 @@
+/*Externall pratice css items -- Foundations 01 */
+
+/* div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+} */
+
+/*End externall pratice css items -- Foundations 01 */
+
+/*Externall pratice css items -- Foundations 02 */
+.odd {
+    background-color: #dc6b6b;
+    font-family: verdana, sans-serif, DejaVu Sans;
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/*End externall pratice css items -- Foundations 02 */
+
+/*Externall pratice css items -- Foundations 03 */
+
+.rectangle-1 {
+    background-color: black;
+    color: white;
+}
+
+.rectangle-2 {
+    background-color: yellow;
+}
+
+.rectangle-1,
+.rectangle-2 {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
