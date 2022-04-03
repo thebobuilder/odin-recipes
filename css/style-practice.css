@@ -58,3 +58,47 @@
     width: 200px;
     height: 400px;
 }
+
+/*Externall pratice css items -- Foundations 05 */
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/*Externall pratice css items -- Foundations 06 */
+.para {
+    font-size: 22px;
+}
+
+.small-para {
+    font-size: 14px;
+}
+
+.para,
+.small-para {
+    color: hsl(0, 100%, 50%);
+}
+
+.button {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+#confirm-button {
+    background: green;
+    color: white;
+    font-weight: bold;
+}
+
+.text {
+    color: green;
+    font-size: 22px;
+}
+
+.child {
+    color: red;
+    font-size: 14px;
+}
