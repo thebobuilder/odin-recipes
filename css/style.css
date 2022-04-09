@@ -1,0 +1,21 @@
+/*Add border to every element */
+* {
+    border: 2px solid red;
+    box-sizing: border-box
+}
+
+.page-title {
+    color: rgb(169, 132, 77);
+    text-align: center;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+img {
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
